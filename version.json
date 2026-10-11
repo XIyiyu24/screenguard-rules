@@ -1,7 +1,7 @@
 {
-  "versionCode": 607,
-  "versionName": "6.7",
-  "minVersionCode": 592,
+  "versionCode": 608,
+  "versionName": "6.8",
+  "minVersionCode": 593,
   "file": "ScreenGuard.apk",
-  "note": "手动检查更新按钮 + 举报记录"
+  "note": "修复规则加载与版本检测"
 }
