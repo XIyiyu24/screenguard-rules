@@ -1,7 +1,7 @@
 {
-  "versionCode": 611,
-  "versionName": "6.11",
-  "minVersionCode": 596,
+  "versionCode": 612,
+  "versionName": "6.12",
+  "minVersionCode": 597,
   "file": "ScreenGuard.apk",
-  "note": "修复激活判定、设备码变化兜底、日志封顶"
+  "note": "上下线播报（飞书）"
 }
