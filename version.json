@@ -1,7 +1,7 @@
 {
-  "versionCode": 615,
-  "versionName": "6.15",
-  "minVersionCode": 610,
+  "versionCode": 616,
+  "versionName": "6.16",
+  "minVersionCode": 611,
   "file": "ScreenGuard.apk",
-  "note": "切换到新仓库地址"
+  "note": "双仓库地址兜底"
 }
